@@ -1,5 +1,5 @@
 # filesaver
-Bot generates sharable link inside telegram for documents and make files public via inline search
+Ini adalah File Saver bot, bot yang bisa dipake buat broadcast ke pemakainya
 
 <a href="https://heroku.com/deploy?template=https://github.com/Amalrajanj/filesaver">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
@@ -9,7 +9,7 @@ Bot generates sharable link inside telegram for documents and make files public 
 Click here to watch how to host
 </a>
 <br>
-required details 
+YANG DIBUTUHIM
 
 <code>TOKEN</code> - Get bot token from bot father
 
@@ -27,7 +27,7 @@ required details
 <h1>Here are some of the admin commands and usage</h1>
 
 
-1.How to ban and unban users
+1. Cara banned user yang sembarangan make bot kita
 
 
 <code>/ban</code> userID
